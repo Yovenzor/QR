@@ -7,7 +7,7 @@ Don't forget to follow and leave a star ✨⭐.
 
 ## Screenshot
 
-![qr-code](https://github.com/Yovenzor/QR/assets/102180213/18eba469-5d42-4537-8784-85819570a4c3)
+![image](https://github.com/user-attachments/assets/006369bd-dff2-4922-9666-b339cfbf591c)
 
 ## Features
  - Live Updating
@@ -15,19 +15,6 @@ Don't forget to follow and leave a star ✨⭐.
 
 ## Links
  - [Live Demo](https://yovenzor.github.io/QR/)
-
-## Authors
-
-- [Yovenzor Singh](https://www.github.com/Yovenzor)
-
-## Clone
-
-To clone this project it's so easy, you just need to open a folder in Visual Studio Code and in the terminal wrtie:
-
-```bash
-  git clone https://github.com/Yovenzor/QR
-```
-
 
 ## License
 
